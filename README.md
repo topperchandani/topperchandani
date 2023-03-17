@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @topperchandani
-- 👀 I’m interested in programmimg
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Artificial intelligence and data science
 - 💞️ I’m looking to collaborate on coding challenge 
 
